@@ -1,0 +1,10 @@
+
+.env
+uploads/*
+!uploads/.gitkeep
+api/debug_login.txt
+api/koneksi.php
+api/tes_api.php
+tes_koneksi.php
+tes_login.php
+test_warga.php
